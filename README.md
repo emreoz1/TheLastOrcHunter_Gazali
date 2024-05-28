@@ -1,3 +1,7 @@
+# Important
+arif_v1.py is a version that you can play through the terminal without installing a library. 
+main.py is a version where you can play 2D by installing the pygame library.
+
 # TheLastOrcHunter_Gazali
 It is a single player story-based 2D game written with Python PyGame library. The game consists of 4 chapters. The story flow changes slightly depending on the choices. There is a secret achievement and an alternate ending.
 
